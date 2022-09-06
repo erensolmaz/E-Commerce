@@ -1,8 +1,8 @@
 # E-Commerce
 Basic E-Commerce Web Site (Basit alışveriş web sitesi)
-Page 1 (Index):
+Page Up (Index):
 ![page up](https://user-images.githubusercontent.com/40443383/188704145-1500efa3-b865-44e1-a85a-3d7f3d4661ca.png)
-Page 2:
+Page Down:
 ![page down](https://user-images.githubusercontent.com/40443383/188704149-36cdb679-4136-4ecf-8007-65fc081dd409.png)
 Add a products to cart:
 ![cart](https://user-images.githubusercontent.com/40443383/188704141-030b24d1-5e52-4e55-8fec-9a30e04187a8.png)
