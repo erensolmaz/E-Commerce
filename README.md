@@ -1,4 +1,32 @@
-# E-Commerce
+<div align="center">
+
+# 🛍️ E-Commerce Website
+
+**A basic online shop front-end with cart and sign-up (Basit alışveriş web sitesi)**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## ✨ Features
+
+- Product listing page with zoom & rating plugins
+- Add-to-cart functionality (jQuery MyCart)
+- Customer registration (`kaydol.html`) saved to MySQL via PHP
+- Responsive Bootstrap layout
+
+## 🚀 Getting Started
+
+1. Install a local server stack such as **XAMPP**.
+2. Copy the project into `htdocs` and create a MySQL database named `uye`.
+3. Start Apache & MySQL, then open `http://localhost/E-Commerce/`.
+
+> The static pages also work by simply opening `index.html`.
+
+## 📸 Screenshots
+
 ## Basic E-Commerce Web Site (Basit alışveriş web sitesi)
 
 
@@ -25,3 +53,11 @@
 
 ## Description: 
 - İlk olarak sitenin kayıt sistemi çalışması için wampserver gerekiyor ve dosyaları www içine atmak gerekiyor bu şekilde veri tabanı çalışabilir. Sitenin kullanımı ise Anasayfa, Yemek ve İletişim bölümleri var. Anasayfa buttonuna tıkladığımızda anasayfaya yönlendiriyor, kayıt buttonuna bastığımızda kayıt olma sayfasına yönlendiriyor kayıt olduğumuz veriler veritabanına kayıt oluyor, yemek buttonuna tıkladığımızda açılır pencere açılıyor ve tıkladığımız sayfalara yönlendiriyor. İletişim bölümünde en alt satırda bulunan iletişim menüsüne yönlendiriyor. Sağda bulunan sepet resmi satın almak istediğimiz, eklediğimiz eşyaları, yiyecekleri biriktiriyor ve topluca satın alabiliyoruz. Altlarda ise satın alabileceğimiz ürünler bulunuyor ve 4 farklı bölüm var bunlara tıklayarak diğer yiyecekleri görebiliyoruz. Sepete ekle buttonuna bastığımızda sağda bulunan sepete ekleniyor tıkladığımız ürün. Daha alt satırlarda farklı fırsat ürünleri bulunuyor ve en alt kısımda da iletişim bölümü  bulunmakta. En alt sağ köşede ise hızlı scroll buttonu bulunmakta bu buttona bastığımızda sayfanın en üstüne bizi yönlendirmekte. Ve son olarak alışverişi tamamla dediğimizde alışveriş tamamlanıyor.
+
+---
+
+<div align="center">
+
+Made by [Eren Solmaz](https://github.com/erensolmaz) · [LinkedIn](https://linkedin.com/in/noiren)
+
+</div>
